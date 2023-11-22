@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaurenDevelops
 - 👀 I’m interested in creating my own projects
-- 🌱 I’m currently learning web development, design and data analysis
+- 🌱 I’m currently learning full-stack web development, design and data analysis
 
 <!---
 LaurenDevelops/LaurenDevelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
