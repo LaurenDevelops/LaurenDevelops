@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LaurenDevelops
-- 👀 I’m interested in creating my own projects
 - 🌱 I’m currently learning to use HTML, CSS, JavaScript, jQuery and SQL
 
 <!---
